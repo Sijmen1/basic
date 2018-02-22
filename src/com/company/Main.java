@@ -8,6 +8,7 @@ public class Main {
         System.out.println("I don't feel like doing this workshop but I have to because it is 5 percent of my grade");
 
         System.out.println("I would be happier if I could sleep the day away");
+        System.out.println("moh git, moh problems");
 
     }
 }
