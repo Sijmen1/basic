@@ -9,7 +9,7 @@ public class Main {
 
         System.out.println("I would be happier if I could sleep the day away");
         System.out.println("moh git, moh problems");
-        System.out.println("out of lame jokes");
+        System.out.println("out of fewafewalame jokes");
 
     }
 }
